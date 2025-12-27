@@ -1,4 +1,4 @@
-#Recommendation System 
+<h1>Recommendation System <h1>
 
 A content-based movie recommendation system built using Natural Language Processing (NLP) and Machine Learning, designed to recommend movies based on semantic similarity between movie metadata.
 This project demonstrates a complete end-to-end ML pipeline — from raw data preprocessing to vectorization and similarity-based recommendations.
