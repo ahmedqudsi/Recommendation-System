@@ -69,13 +69,10 @@ This ensured a compact and semantically meaningful vocabulary.
 ➢Hands-on experience with cosine similarity and feature engineering<br>
 ➢Exposure to real-world data handling challenges in pandas<br>
 
-<h3>📂 Project Structure</h3>
-├── data/
-│   └── movies.csv
-├── notebook/
-│   └── movie_recommendation.ipynb
-├── README.md
+<h3>📂 Project Structure</h3><br>
+├── data/<br>
+│   └── movies.csv<br>
+├── notebook/<br>
+│   └── movie_recommendation.ipynb<br>
+├── README.md<br>
 └── requirements.txt
-
-Contributions, suggestions, and improvements are welcome.
-Feel free to fork the repository and raise a pull request.
